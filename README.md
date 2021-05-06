@@ -27,7 +27,7 @@ Per assignment: https://courses.thinkful.com/node-postgres-v1/checkpoint/19#assi
 ## Guidance
 Checkpoint 19: Add Relationships to Blogful...
 * [Walk-thru](https://courses.thinkful.com/node-postgres-v1/checkpoint/19)
-* [myRepo: blogful-api](https://github.com/oscarsanchez13/blogful-api)
+* [myRepo: blogful-api](https://github.com/oscarsanchez13/blogful-noteful-json-server)
 
 <hr />
 
